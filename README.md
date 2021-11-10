@@ -1,5 +1,7 @@
 # Taller_API
 
+![Olympics](olympics.jpg)
+
 # Objetivo
 
 En este repositorio encontrará la limpieza y manipulación de un dataframe que contiene variables asociadas a los atletas que han participado en los Juegos Olimpicos de Tokio 2021, y las correspondientes NOC a nivel mundial a la que pertenecen. Para aportar valor y enriquecer la posterior vizualización de los datos, se ha realizado un Web Scrapping para generar un dataFrame con las medallas ganadas por países. 
@@ -17,7 +19,11 @@ El repositorio está compuesto por:
 # Bibliotecas
 
 Pandas
+
 Numpy
+
 Seaborn
+
 Re
+
 Beautifulsoup4
