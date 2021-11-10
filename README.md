@@ -1,6 +1,6 @@
 # Taller_API
 
-![Olympics](olympics.jpg)
+![Olympics](https://github.com/daniela-arias/Taller_API/blob/main/olympics-1.svg)
 
 # Objetivo
 
